@@ -1,5 +1,5 @@
-# Data Analysis
+# Machine Learning
 
-Repositório para guardar projetos, códigos e ferramentas relacionados à **Analise de Dados**. 
+Repositório para guardar projetos, códigos, ferramentas e estudos relacionados à **Machine Learning**. 
 
-- **applied-plotting**: Notebooks relacionados à dataviz criados durante o curso *'Applied Plotting, Charting & Data Representation in Python'* do Coursera ;
+- **applied-ml-python**: Notebooks relacionados à machine learning criados durante o curso *'Applied Machine Learning in Python'* do Coursera;
